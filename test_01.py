@@ -1,4 +1,3 @@
 
 if __name__ == '__main__':
-    print('hello world')
-    print('hello again')
+    print('The quick brown fox jumps over the lazy dog')

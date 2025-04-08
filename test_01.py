@@ -1,3 +1,9 @@
 
+
 if __name__ == '__main__':
-    print('The quick brown fox jumps over the lazy dog')
+    marks = int(input("Please enter marks"))
+
+    if marks > 50:
+        print("pass")
+    else:
+        print("fail")
